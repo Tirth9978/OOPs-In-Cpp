@@ -43,5 +43,5 @@ This repository is designed for students, developers, and programming enthusiast
   Comment : 
 </h2>
 <p>
-This is incomplete. I am Working on it . If you want to give any Contribution then give . 
+This is incomplete. I am Working on it . If you want to give any Contribution, I would be more than happy to accept it . 
 </p>
