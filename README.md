@@ -2,7 +2,7 @@
 This repository serves as a comprehensive resource for mastering Object-Oriented Programming (OOP) in C++. It encompasses meticulously crafted examples, problem-solving exercises, and real-world applications to provide a thorough understanding of OOP principles.
 
 
-<h1>Key Learning Objectives </h1>
+<h2>Key Learning Objectives </h2>
 
 <p>
   Classes and Objects: The fundamental constructs of OOP.
@@ -15,7 +15,7 @@ This repository serves as a comprehensive resource for mastering Object-Oriented
   Advanced Concepts: Including virtual functions, abstract classes, and more.
 </p>
 
-<h1>Highlights: </h1>
+<h2>Highlights: </h2>
 <p>
   Well-structured, beginner-friendly examples for foundational learning.
   Problem sets with comprehensive solutions to reinforce concepts.
@@ -24,14 +24,14 @@ This repository serves as a comprehensive resource for mastering Object-Oriented
     
 </p>
 
-<h1>
+<h2>
 Contribution Guidelines :
   
-</h1>
+</h2>
 
 <p>Contributions to enhance this repository are highly encouraged. Whether through additional examples, improved solutions, or insightful documentation, your input is valuable. Please fork the repository and submit a pull request to share your contributions.</p>
 
-<h1>Purpose : </h1>
+<h2>Purpose : </h2>
 <p>
 This repository is designed for students, developers, and programming enthusiasts seeking to refine their skills in C++ and build a strong foundation in Object-Oriented Programming.
   
