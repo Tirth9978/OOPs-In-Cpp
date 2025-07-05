@@ -4,7 +4,7 @@ Welcome to the **OOPs-In-Cpp** repository! This is a comprehensive resource for 
 
 ## 📌 Key Learning Objectives
 
-✅ **Classes and Objects** – The fundamental constructs of OOP.
+✅ **Classes and Objects** – The fundamental constructs of OOP (ok).
 ✅ **Access Specifiers** – Leveraging `public`, `private`, and `protected` access modifiers effectively.
 ✅ **Encapsulation** – Implementing abstraction and safeguarding data integrity.
 ✅ **Constructors and Destructors** – Managing the lifecycle of objects.
@@ -34,7 +34,6 @@ I would be more than happy to accept valuable contributions! 😊
 ## 🎯 Purpose
 
 This repository is designed for **students, developers, and programming enthusiasts** looking to refine their skills in **C++** and build a strong foundation in **Object-Oriented Programming**.
-
 ---
 
 ### ⚠️ Note: This repository is a work in progress. Stay tuned for more updates! 📢
